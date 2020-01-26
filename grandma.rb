@@ -17,8 +17,9 @@ if speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
 end
 
-if speak_to_grandma == "I love you grandma!"
-  puts "HUH?! SPEAK UP,SONNY!"
+if speak_to_grandma == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TOO PUMPKIN!"
+elsif "HUH?! SPEAK UP, SONNY!"
   
 
   
