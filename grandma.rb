@@ -19,7 +19,7 @@ end
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
-elsif "HUH?! SPEAK UP, SONNY!"
-  
+elsif "NO, NOT SINCE 1938!"
+else 
 
   
